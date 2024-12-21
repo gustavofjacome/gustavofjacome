@@ -9,7 +9,7 @@
   ➔ <strong>Programação:</strong> Python, C++<br>
   ➔ <strong>Desenvolvimento Web:</strong> HTML, CSS<br>
   ➔ <strong>Sistemas Operacionais:</strong> Linux<br>
-  ➔ <strong>Microcontroladores:</strong> Arduino
+  ➔ <strong>Microcontroladores:</strong> Raspberry Pi Pico W
 </p>
 
 
@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
