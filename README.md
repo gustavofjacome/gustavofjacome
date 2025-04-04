@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  🎓 <strong>Graduando em Tecnologia da Informação</strong> - UFRN<br>
+  🎓 <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong> - IFRN CNAT<br>
   💼 <strong>Técnico Integrado em Administração</strong><br><br>
   💻 <strong>Competências Técnicas:</strong><br>
   ➔ <strong>Programação:</strong> Python, C++<br>
@@ -32,8 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
