@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=78&section=header&reversal=false&text=Sobre%20mim&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=61&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <h1>Sobre Mim</h1>
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=78&section=header&reversal=false&text=Tecnologias&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=61&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <h1>Tecnologias</h1>
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=78&section=header&reversal=false&text=Entre%20em%20Contato&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=61&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <h1>Entre em Contato</h1>
 </div>
 
 ###
@@ -71,11 +71,10 @@
 
 ###
 
+<h1>Git Stats</h1>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavofjacome&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavofjacome&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Usadas" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=gustavofjacome&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gustavofjacome&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavofjacome&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
