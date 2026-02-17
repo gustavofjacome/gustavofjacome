@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Graduando em Análise e Desenvolvimento de Sistemas - IFRN CNAT<br>💼 Técnico Integrado em Administração<br><br>💻 Competências Técnicas:<br>➔ Programação: Python, C++<br>➔ Desenvolvimento Web: HTML, CSS<br>➔ Sistemas Operacionais: Linux<br>➔ Microcontroladores: Raspberry Pi Pico W</p>
+<p align="left">🎓 Graduando em Análise e Desenvolvimento de Sistemas - IFRN CNAT<br>💼 Técnico Integrado em Administração<br><br>💻 Competências Técnicas:<br>➔ Programação: Python, C++, Java<br>➔ Desenvolvimento Web: HTML, CSS<br>➔ Sistemas Operacionais: Linux<br>➔ Microcontroladores: Raspberry Pi Pico W, Arduino Uno</p>
 
 ###
 
@@ -83,7 +83,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavofjacome/gustavofjacome/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavofjacome/gustavofjacome/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavofjacome/gustavofjacome/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
