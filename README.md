@@ -15,16 +15,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="45" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
@@ -32,12 +33,6 @@
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="45" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
 </div>
 
 ###
