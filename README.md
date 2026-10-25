@@ -24,8 +24,8 @@ Gosto de tecnologia, desenvolvimento de software e sistemas operacionais. Me int
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **ELEVA** | Gestão financeira doméstica | Python, Django |
-| **DesgeoEDU** | Aplicação web sobre os parques de geodiversidade do RN | Java, Spring Boot |
+| [**Eleva**](https://github.com/tads-cnat/eleva) | Gestão financeira doméstica | Python, Django |
+| [**DesgeoEDU**](https://github.com/Desgeo-EDU/DesgeoEdu) | Aplicação web sobre os parques de geodiversidade do RN | Java, Spring Boot |
 | [**poti$h**](https://github.com/gustavofjacome/potishell) | Shell do zero, com gerenciamento de processos e histórico | C++, C |
 
 <sub>ELEVA e DesgeoEDU estão em repositórios privados.</sub>
